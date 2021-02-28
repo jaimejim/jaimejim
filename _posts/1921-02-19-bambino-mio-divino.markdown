@@ -192,4 +192,4 @@ The preliminary results are now very positive and they are ready to move him out
 
 I have no words to express how it feels. Collapse, happiness, terror and fragility. My thoughts are of course with my two children but even more with other parents that have to go through this. I pray for them to have strength of mind.
 
-My baby has been born a second time.
+We do not know what the outcome for Giacomo will be, there are still many months ahead of observing his development. The first obstacles have been overcome, there will be many more, but today my baby has been born a second time.
