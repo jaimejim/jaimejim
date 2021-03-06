@@ -146,6 +146,8 @@ The situation is more complicated for babies with *moderate* HIE where the rates
 Other sources point out that about [40-50%](https://bmcpediatr.biomedcentral.com/articles/10.1186/s12887-019-1566-8) of the infants with moderate or severe HIE (i.e., 2500–10,000 infants per year in Europe) die or suffer from permanent and serious brain injuries.
 Hypothermia applied within 6 hours from birth offers some protection with [modest improvements](https://pubmed.ncbi.nlm.nih.gov/29067428/).
 
+Alternatively, a more precise way to decribe a baby's HIE is the [Thompson score](https://www.mdapp.co/thompson-score-for-hypoxic-ischaemic-encephalopathy-hie-calculator-410/), which assigns a numeric score based on the reaction, posture, grasp and other reflexes of the baby. 
+
 Aside from being life-threatening, neonatal hypoxic-ischemic encephalopathy (HIE) causes permanent brain damage. Once it is confirmed, there is no cure for it. Cooling only prevents further damage. It seems - to me - that the brain does not really regenerate in any case. Again I am not a doctor, I am just reading the literature.
 
 There are also several [biomarkers](https://helda.helsinki.fi/bitstream/handle/10138/308922/BIOMARKE.pdf?sequence=1&isAllowed=y) that may give you some insights on your specific situation, however as this is very rare, it is still relatively under study.
